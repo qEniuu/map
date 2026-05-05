@@ -15,5 +15,5 @@ Using the editor to add dials to novymap:
 5. **Wiki Url** - url to corresponding wiki page (not required)
 6. **Type** - Whether the dial is a build, shop, farm, or an area with pvp enabled
 
-After doing the above steps, clikc the add entry button. You can repeat this proccess to add multiple entries.
-When you're done adding entries, click the download button to save your work. You can then make a fork of this repo, upload you downloaded file and make a pull request to submit changes.
+After doing the above steps, click the add entry button. You can repeat this proccess to add multiple entries. If you need to save and load your work you can using the browse button.
+When you're done adding entries, click the download button to save your work. You can then make a fork of this repo, upload your downloaded file and make a pull request to submit changes.
