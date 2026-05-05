@@ -5620,13 +5620,33 @@
                 },
                 "940": {
                     "label": "ksi",
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">ksi</h1><div class=\"dial-bar\"></div><p  class=\"dial-dial\">/dial 䥰龘䰕䘋㽌䇁䵄䵻䬛蟿⣼˼˿‰‡▜▿⮊:star::o:䆉㖀䨻䨺䆐毳舙噜ቍ፱ቧጧⷃⶪᆔ끃몭̻́͟ڒݐݤﻪﻯիր⢓⣋嚖嚗嚘啮嚚嚛嚜嚝嚞篍篎篏篐篑篒篓篔ęԅ簸簹簺簻籀籁腫腬腭腮腯腰腱腲腳腴腵腶腷腸腹腺腻腼腽腾膀膁膂膃膄膅膆膇膈膉膊膋膌膍膎膏膐膑膒膓膔膕膖膗膘膙膚膜膞ߺ籃籄籅籆籇籈𝞕゛㇍㈾⸾㈾𝌌𝞕啮囔囕囖曀曁曂曃晔፱ቧጧⷃⶪᆔ끃曅曈፡፠ᎇ፡፳ᎉ曊曋曌曍曎曏曐曑曒曓曔꒖꒗꒼꒼曛曜曝曞曟旷曡曢曣𛰸ή῀ῧῒ῾ῪΩῗ芶芻芼芽芾芿苁ܧؿݑ۞苀芿苂苃苄苅苆苇苈苉苊苍苎苏苐苑𐍃𐍄腭腮</p><p  class=\"dial-info\">QVH&#039;s island the name is from the mistranslation of oddly shaped island in cantonese</p><p  class=\"dial-wiki\"><a href=\"\"></a></p><p  class=\"dial-coord\">X : -16413 Y : 63 Z : -17259<br> ID : 940 Added by : </p></div>",
+                    "x": "-16413",
+                    "y": "63",
+                    "z": "-17259",
+                    "icon": "building",
+                    "info": "ksi",
+                    "dial": "䥰龘䰕䘋㽌䇁䵄䵻䬛蟿⣼˼˿‰‡▜▿⮊:star::o:䆉㖀䨻䨺䆐毳舙噜ቍ፱ቧጧⷃⶪᆔ끃몭̻́͟ڒݐݤﻪﻯիր⢓⣋嚖嚗嚘啮嚚嚛嚜嚝嚞篍篎篏篐篑篒篓篔ęԅ簸簹簺簻籀籁腫腬腭腮腯腰腱腲腳腴腵腶腷腸腹腺腻腼腽腾膀膁膂膃膄膅膆膇膈膉膊膋膌膍膎膏膐膑膒膓膔膕膖膗膘膙膚膜膞ߺ籃籄籅籆籇籈𝞕゛㇍㈾⸾㈾𝌌𝞕啮囔囕囖曀曁曂曃晔፱ቧጧⷃⶪᆔ끃曅曈፡፠ᎇ፡፳ᎉ曊曋曌曍曎曏曐曑曒曓曔꒖꒗꒼꒼曛曜曝曞曟旷曡曢曣𛰸ή῀ῧῒ῾ῪΩῗ芶芻芼芽芾芿苁ܧؿݑ۞苀芿苂苃苄苅苆苇苈苉苊苍苎苏苐苑𐍃𐍄腭腮"
+                },
+                "941": {
+                    "label": "ksi",
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">ksi</h1><div class=\"dial-bar\"></div><p  class=\"dial-dial\">/dial 䥰龘䰕䘋㽌䇁䵄䵻䬛蟿䆉㖀䨻㵘䲜䨺䆐毳舙麤雦霛嚒嚓嚔噜嚖嚗嚘啮嚚嚛嚜嚝嚞嚟嚠嚡嚢嚣嚤呖嚧咙嚩咙嚧嚪嚫嚬嚭嚯嚰嚱亸喾嚵嘤嚷嚸嚹嚺嚻嚼嚽嚾嚿啭嗫嚣囃囄冁囆囇呓囊囋囍囎囏囐嘱囒啮囔囕囖曀曁曂曃晔曅曈曊曋曌曍曎曏曐曑曒曓曔曕曗曘曙曚曛曜曝曞曟旷曡曢曣曤曥曦曧昽曩曪曫晒曭曮曯</p><p  class=\"dial-info\">QVH&#039;s island the name is from the mistranslation of oddly shaped island in cantonese</p><p  class=\"dial-wiki\"><a href=\"\"></a></p><p  class=\"dial-coord\">X : -16417 Y : 63 Z : -17259<br> ID : 941 Added by : </p></div>",
                     "x": "-16417",
                     "y": "63",
                     "z": "-17259",
                     "icon": "building",
                     "info": "ksi",
-                    "dial": "ksi"
+                    "dial": "䥰龘䰕䘋㽌䇁䵄䵻䬛蟿䆉㖀䨻㵘䲜䨺䆐毳舙麤雦霛嚒嚓嚔噜嚖嚗嚘啮嚚嚛嚜嚝嚞嚟嚠嚡嚢嚣嚤呖嚧咙嚩咙嚧嚪嚫嚬嚭嚯嚰嚱亸喾嚵嘤嚷嚸嚹嚺嚻嚼嚽嚾嚿啭嗫嚣囃囄冁囆囇呓囊囋囍囎囏囐嘱囒啮囔囕囖曀曁曂曃晔曅曈曊曋曌曍曎曏曐曑曒曓曔曕曗曘曙曚曛曜曝曞曟旷曡曢曣曤曥曦曧昽曩曪曫晒曭曮曯"
+                },
+                "942": {
+                    "label": "Longest dial name",
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Longest dial name</h1><div class=\"dial-bar\"></div><p  class=\"dial-dial\">/dial 你好，你今天過得怎麼樣，我做這個是因為你知道誰告訴我我應該很高興讓我們看看這個是否可以比另一個中國錶盤更長我打賭我們可以，因為這是完全隨機的，而另一種方式實際上是什麼。請鑽石鎮和克蘇魯之地的你們喜歡這個名字，我們愛你們！由於這還不夠長，我將通過添加一些額外的單詞來使其更長，使其超過五百四十個單詞，因為這必須比歷史上任何可能的撥號都長。等等，我想現在時間更長了，所以我想稍後再見你。顯然它已經不長了，所以我們讓它超過七百個字符，甚至八百個字符，這樣我就可以使它成為伺服器上最長的撥號。</p><p  class=\"dial-info\">Created by Dakto_</p><p  class=\"dial-wiki\"><a href=\"\"></a></p><p  class=\"dial-coord\">X : -16041 Y : 92 Z : -12738<br> ID : 942 Added by : </p></div>",
+                    "x": "-16041",
+                    "y": "92",
+                    "z": "-12738",
+                    "icon": "building",
+                    "info": "Longest dial name",
+                    "dial": "你好，你今天過得怎麼樣，我做這個是因為你知道誰告訴我我應該很高興讓我們看看這個是否可以比另一個中國錶盤更長我打賭我們可以，因為這是完全隨機的，而另一種方式實際上是什麼。請鑽石鎮和克蘇魯之地的你們喜歡這個名字，我們愛你們！由於這還不夠長，我將通過添加一些額外的單詞來使其更長，使其超過五百四十個單詞，因為這必須比歷史上任何可能的撥號都長。等等，我想現在時間更長了，所以我想稍後再見你。顯然它已經不長了，所以我們讓它超過七百個字符，甚至八百個字符，這樣我就可以使它成為伺服器上最長的撥號。"
                 },
                 "945": {
                     "label": "getold",
@@ -5640,13 +5660,13 @@
                 },
                 "948": {
                     "label": "Fort Perseverance",
-                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Fort Perseverance</h1><div class=\"dial-bar\"></div><p  class=\"dial-dial\">/dial mivsplace</p><p  class=\"dial-info\">Miv2nir base</p><p  class=\"dial-wiki\"><a href=\"https://wiki.interserveral.org/index.php/Fort_Perseverance\">https://wiki.interserveral.org/index.php/Fort_Perseverance</a></p><p  class=\"dial-coord\">X : -15743 Y : 64 Z : -1054<br> ID : 948 Added by : </p></div>",
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Fort Perseverance</h1><div class=\"dial-bar\"></div><p  class=\"dial-dial\">/dial N/A</p><p  class=\"dial-info\">Miv2nir base</p><p  class=\"dial-wiki\"><a href=\"https://wiki.interserveral.org/index.php/Fort_Perseverance\">https://wiki.interserveral.org/index.php/Fort_Perseverance</a></p><p  class=\"dial-coord\">X : -15743 Y : 64 Z : -1054<br> ID : 948 Added by : </p></div>",
                     "x": "-15743",
                     "y": "64",
                     "z": "-1054",
                     "icon": "building",
                     "info": "Fort Perseverance",
-                    "dial": "mivsplace"
+                    "dial": "N/A"
                 },
                 "949": {
                     "label": "kuskebabi base",
@@ -6158,6 +6178,16 @@
                     "info": "",
                     "dial": "u"
                 },
+                "1022": {
+                    "label": "krmesa",
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">krmesa</h1><div class=\"dial-bar\"></div><p  class=\"dial-dial\">/dial krmesa</p><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p><p  class=\"dial-coord\">X : -10552 Y : 64 Z : 11348<br> ID : 1022 Added by : Who?</p></div>",
+                    "x": "-10552",
+                    "y": "64",
+                    "z": "11348",
+                    "icon": "building",
+                    "info": "",
+                    "dial": "krmesa"
+                },
                 "1023": {
                     "label": "/",
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">/</h1><div class=\"dial-bar\"></div><p  class=\"dial-dial\">/dial /</p><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p><p  class=\"dial-coord\">X : -10536 Y : 64 Z : 11461<br> ID : 1023 Added by : Who?</p></div>",
@@ -6259,7 +6289,7 @@
                 },
                 "1033": {
                     "label": "AquaticaReloaded",
-                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">AquaticaReloaded</h1><div class=\"dial-bar\"></div><p  class=\"dial-dial\">/dial AquaticaReloaded</p><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p><p  class=\"dial-coord\">X : -8520 Y : 64 Z : 9423<br> ID : 1033 Added by : Who?</p></div>",
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">AquaticaReloaded</h1><div class=\"dial-bar\"></div><p  class=\"dial-dial\">/dial </p><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p><p  class=\"dial-coord\">X : -8520 Y : 64 Z : 9423<br> ID : 1033 Added by : Who?</p></div>",
                     "x": "-8520",
                     "y": "64",
                     "z": "9423",
@@ -6278,7 +6308,7 @@
                 },
                 "1035": {
                     "label": "SkyBase",
-                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">SkyBase</h1><div class=\"dial-bar\"></div><p  class=\"dial-dial\">/dial SkyBase</p><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p><p  class=\"dial-coord\">X : -9292 Y : 64 Z : 8674<br> ID : 1035 Added by : Who?</p></div>",
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">SkyBase</h1><div class=\"dial-bar\"></div><p  class=\"dial-dial\">/dial </p><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p><p  class=\"dial-coord\">X : -9292 Y : 64 Z : 8674<br> ID : 1035 Added by : Who?</p></div>",
                     "x": "-9292",
                     "y": "64",
                     "z": "8674",
@@ -6850,6 +6880,326 @@
                     "icon": "building",
                     "info": "",
                     "dial": "Sakura"
+                },
+                "1093": {
+                    "label": "Eniuu Base",
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Eniuu Base</h1><div class=\"dial-bar\"></div><p  class=\"dial-dial\">/dial eniuu</p><p  class=\"dial-info\">Also Eniuu Shop</p><p  class=\"dial-wiki\"><a href=\"\"></a></p><p  class=\"dial-coord\">X : -19018 Y : 64 Z : -10122<br> ID : 1093 Added by : Who?</p></div>",
+                    "x": "-19018",
+                    "y": "64",
+                    "z": "-10122",
+                    "icon": "building",
+                    "info": "Also Eniuu Shop",
+                    "dial": "eniuu"
+                },
+                "1094": {
+                    "label": "Ordawnia Square",
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Ordawnia Square</h1><div class=\"dial-bar\"></div><p  class=\"dial-dial\">/dial OrdawniaSquare</p><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p><p  class=\"dial-coord\">X : -14644 Y : 64 Z : -11815<br> ID : 1094 Added by : Who?</p></div>",
+                    "x": "-14644",
+                    "y": "64",
+                    "z": "-11815",
+                    "icon": "building",
+                    "info": "",
+                    "dial": "OrdawniaSquare"
+                },
+                "1095": {
+                    "label": "Trash",
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Trash</h1><div class=\"dial-bar\"></div><p  class=\"dial-dial\">/dial trash</p><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p><p  class=\"dial-coord\">X : 11621 Y : 64 Z : -2411<br> ID : 1095 Added by : Who?</p></div>",
+                    "x": "11621",
+                    "y": "64",
+                    "z": "-2411",
+                    "icon": "building",
+                    "info": "",
+                    "dial": "trash"
+                },
+                "1096": {
+                    "label": "/",
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">/</h1><div class=\"dial-bar\"></div><p  class=\"dial-dial\">/dial /</p><p  class=\"dial-info\">Sea Temple Build</p><p  class=\"dial-wiki\"><a href=\"\"></a></p><p  class=\"dial-coord\">X : -10536 Y : 64 Z : 11458<br> ID : 1096 Added by : Who?</p></div>",
+                    "x": "-10536",
+                    "y": "64",
+                    "z": "11458",
+                    "icon": "building",
+                    "info": "Sea Temple Build",
+                    "dial": "/"
+                },
+                "1097": {
+                    "label": "Loeepy",
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Loeepy</h1><div class=\"dial-bar\"></div><p  class=\"dial-dial\">/dial Loeepy</p><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p><p  class=\"dial-coord\">X : -12400 Y : 64 Z : 8454<br> ID : 1097 Added by : Who?</p></div>",
+                    "x": "-12400",
+                    "y": "64",
+                    "z": "8454",
+                    "icon": "building",
+                    "info": "",
+                    "dial": "Loeepy"
+                },
+                "1098": {
+                    "label": "Taca Base",
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Taca Base</h1><div class=\"dial-bar\"></div><p  class=\"dial-dial\">/dial taca-base</p><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p><p  class=\"dial-coord\">X : 1019 Y : 64 Z : 8423<br> ID : 1098 Added by : Who?</p></div>",
+                    "x": "1019",
+                    "y": "64",
+                    "z": "8423",
+                    "icon": "building",
+                    "info": "",
+                    "dial": "taca-base"
+                },
+                "1099": {
+                    "label": "Kitty City",
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Kitty City</h1><div class=\"dial-bar\"></div><p  class=\"dial-dial\">/dial kittycity</p><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p><p  class=\"dial-coord\">X : -18152 Y : 64 Z : -9196<br> ID : 1099 Added by : Who?</p></div>",
+                    "x": "-18152",
+                    "y": "64",
+                    "z": "-9196",
+                    "icon": "building",
+                    "info": "",
+                    "dial": "kittycity"
+                },
+                "1100": {
+                    "label": "Capsule",
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Capsule</h1><div class=\"dial-bar\"></div><p  class=\"dial-dial\">/dial capsule</p><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p><p  class=\"dial-coord\">X : -14463 Y : 64 Z : -10705<br> ID : 1100 Added by : Who?</p></div>",
+                    "x": "-14463",
+                    "y": "64",
+                    "z": "-10705",
+                    "icon": "building",
+                    "info": "",
+                    "dial": "capsule"
+                },
+                "1101": {
+                    "label": "Nowlu",
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Nowlu</h1><div class=\"dial-bar\"></div><p  class=\"dial-dial\">/dial Nowlu</p><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p><p  class=\"dial-coord\">X : -15940 Y : 64 Z : -13326<br> ID : 1101 Added by : Who?</p></div>",
+                    "x": "-15940",
+                    "y": "64",
+                    "z": "-13326",
+                    "icon": "building",
+                    "info": "",
+                    "dial": "Nowlu"
+                },
+                "1102": {
+                    "label": "Far in the Wild",
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Far in the Wild</h1><div class=\"dial-bar\"></div><p  class=\"dial-dial\">/dial farwild</p><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p><p  class=\"dial-coord\">X : -12611 Y : 64 Z : -10612<br> ID : 1102 Added by : Who?</p></div>",
+                    "x": "-12611",
+                    "y": "64",
+                    "z": "-10612",
+                    "icon": "building",
+                    "info": "",
+                    "dial": "farwild"
+                },
+                "1103": {
+                    "label": "Asna-ko",
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Asna-ko</h1><div class=\"dial-bar\"></div><p  class=\"dial-dial\">/dial asnako</p><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p><p  class=\"dial-coord\">X : -12121 Y : 64 Z : -6658<br> ID : 1103 Added by : Who?</p></div>",
+                    "x": "-12121",
+                    "y": "64",
+                    "z": "-6658",
+                    "icon": "building",
+                    "info": "",
+                    "dial": "asnako"
+                },
+                "1104": {
+                    "label": "Haron Outpost",
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Haron Outpost</h1><div class=\"dial-bar\"></div><p  class=\"dial-dial\">/dial HaronOutpost</p><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p><p  class=\"dial-coord\">X : -14444 Y : 64 Z : -3737<br> ID : 1104 Added by : Who?</p></div>",
+                    "x": "-14444",
+                    "y": "64",
+                    "z": "-3737",
+                    "icon": "building",
+                    "info": "",
+                    "dial": "HaronOutpost"
+                },
+                "1105": {
+                    "label": "Toilet Brush",
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Toilet Brush</h1><div class=\"dial-bar\"></div><p  class=\"dial-dial\">/dial toiletbrush</p><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p><p  class=\"dial-coord\">X : 11917 Y : 64 Z : -1459<br> ID : 1105 Added by : Who?</p></div>",
+                    "x": "11917",
+                    "y": "64",
+                    "z": "-1459",
+                    "icon": "building",
+                    "info": "",
+                    "dial": "toiletbrush"
+                },
+                "1106": {
+                    "label": "Scars Base",
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Scars Base</h1><div class=\"dial-bar\"></div><p  class=\"dial-dial\">/dial scarsbase</p><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p><p  class=\"dial-coord\">X : 11467 Y : 64 Z : -1349<br> ID : 1106 Added by : Who?</p></div>",
+                    "x": "11467",
+                    "y": "64",
+                    "z": "-1349",
+                    "icon": "building",
+                    "info": "",
+                    "dial": "scarsbase"
+                },
+                "1107": {
+                    "label": "Unlikely Art v2",
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Unlikely Art v2</h1><div class=\"dial-bar\"></div><p  class=\"dial-dial\">/dial unlikelyart2</p><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p><p  class=\"dial-coord\">X : -18032 Y : 64 Z : -10002<br> ID : 1107 Added by : Who?</p></div>",
+                    "x": "-18032",
+                    "y": "64",
+                    "z": "-10002",
+                    "icon": "building",
+                    "info": "",
+                    "dial": "unlikelyart2"
+                },
+                "1108": {
+                    "label": "Sranje",
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Sranje</h1><div class=\"dial-bar\"></div><p  class=\"dial-dial\">/dial sranje</p><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p><p  class=\"dial-coord\">X : -15878 Y : 64 Z : -9840<br> ID : 1108 Added by : Who?</p></div>",
+                    "x": "-15878",
+                    "y": "64",
+                    "z": "-9840",
+                    "icon": "building",
+                    "info": "",
+                    "dial": "sranje"
+                },
+                "1109": {
+                    "label": "Wdx Land",
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Wdx Land</h1><div class=\"dial-bar\"></div><p  class=\"dial-dial\">/dial wdxland</p><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p><p  class=\"dial-coord\">X : -15550 Y : 64 Z : -11361<br> ID : 1109 Added by : Who?</p></div>",
+                    "x": "-15550",
+                    "y": "64",
+                    "z": "-11361",
+                    "icon": "building",
+                    "info": "",
+                    "dial": "wdxland"
+                },
+                "1110": {
+                    "label": "kiroart",
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">kiroart</h1><div class=\"dial-bar\"></div><p  class=\"dial-dial\">/dial kiroart</p><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p><p  class=\"dial-coord\">X : 8400 Y : 64 Z : -14405<br> ID : 1110 Added by : Who?</p></div>",
+                    "x": "8400",
+                    "y": "64",
+                    "z": "-14405",
+                    "icon": "building",
+                    "info": "",
+                    "dial": "kiroart"
+                },
+                "1111": {
+                    "label": "South East",
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">South East</h1><div class=\"dial-bar\"></div><p  class=\"dial-dial\">/dial southeast</p><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p><p  class=\"dial-coord\">X : 19979 Y : 64 Z : 19986<br> ID : 1111 Added by : Who?</p></div>",
+                    "x": "19979",
+                    "y": "64",
+                    "z": "19986",
+                    "icon": "building",
+                    "info": "",
+                    "dial": "southeast"
+                },
+                "1112": {
+                    "label": "Guardian Orb",
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Guardian Orb</h1><div class=\"dial-bar\"></div><p  class=\"dial-dial\">/dial gorb</p><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p><p  class=\"dial-coord\">X : -16690 Y : 64 Z : 4580<br> ID : 1112 Added by : Who?</p></div>",
+                    "x": "-16690",
+                    "y": "64",
+                    "z": "4580",
+                    "icon": "building",
+                    "info": "",
+                    "dial": "gorb"
+                },
+                "1113": {
+                    "label": "Cave Co",
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Cave Co</h1><div class=\"dial-bar\"></div><p  class=\"dial-dial\">/dial namix</p><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p><p  class=\"dial-coord\">X : -8143 Y : 64 Z : -6744<br> ID : 1113 Added by : Who?</p></div>",
+                    "x": "-8143",
+                    "y": "64",
+                    "z": "-6744",
+                    "icon": "building",
+                    "info": "",
+                    "dial": "namix"
+                },
+                "1114": {
+                    "label": "Minigolf",
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Minigolf</h1><div class=\"dial-bar\"></div><p  class=\"dial-dial\">/dial minigolf</p><p  class=\"dial-info\">-14360</p><p  class=\"dial-wiki\"><a href=\"\"></a></p><p  class=\"dial-coord\">X :  Y : 64 Z : -15582<br> ID : 1114 Added by : Who?</p></div>",
+                    "x": "",
+                    "y": "64",
+                    "z": "-15582",
+                    "icon": "building",
+                    "info": "-14360",
+                    "dial": "minigolf"
+                },
+                "1115": {
+                    "label": "oaktown",
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">oaktown</h1><div class=\"dial-bar\"></div><p  class=\"dial-dial\">/dial oaktown</p><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p><p  class=\"dial-coord\">X : -19206 Y : 64 Z : -7866<br> ID : 1115 Added by : Who?</p></div>",
+                    "x": "-19206",
+                    "y": "64",
+                    "z": "-7866",
+                    "icon": "building",
+                    "info": "",
+                    "dial": "oaktown"
+                },
+                "1116": {
+                    "label": "Krunl Home",
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Krunl Home</h1><div class=\"dial-bar\"></div><p  class=\"dial-dial\">/dial khome</p><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p><p  class=\"dial-coord\">X : -15536 Y : 64 Z : -17379<br> ID : 1116 Added by : Who?</p></div>",
+                    "x": "-15536",
+                    "y": "64",
+                    "z": "-17379",
+                    "icon": "building",
+                    "info": "",
+                    "dial": "khome"
+                },
+                "1117": {
+                    "label": "Rilelyscastle home",
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Rilelyscastle home</h1><div class=\"dial-bar\"></div><p  class=\"dial-dial\">/dial castlehome</p><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p><p  class=\"dial-coord\">X : -2640 Y : 64 Z : -11315<br> ID : 1117 Added by : Who?</p></div>",
+                    "x": "-2640",
+                    "y": "64",
+                    "z": "-11315",
+                    "icon": "building",
+                    "info": "",
+                    "dial": "castlehome"
+                },
+                "1118": {
+                    "label": "Get Horse 2",
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Get Horse 2</h1><div class=\"dial-bar\"></div><p  class=\"dial-dial\">/dial gethorse2</p><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p><p  class=\"dial-coord\">X : -19525 Y : 64 Z : -10444<br> ID : 1118 Added by : Who?</p></div>",
+                    "x": "-19525",
+                    "y": "64",
+                    "z": "-10444",
+                    "icon": "building",
+                    "info": "",
+                    "dial": "gethorse2"
+                },
+                "1119": {
+                    "label": "glasspalace",
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">glasspalace</h1><div class=\"dial-bar\"></div><p  class=\"dial-dial\">/dial </p><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p><p  class=\"dial-coord\">X : -19291 Y : 64 Z : 149<br> ID : 1119 Added by : Who?</p></div>",
+                    "x": "-19291",
+                    "y": "64",
+                    "z": "149",
+                    "icon": "building",
+                    "info": "",
+                    "dial": ""
+                },
+                "1120": {
+                    "label": "bazingasouth",
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">bazingasouth</h1><div class=\"dial-bar\"></div><p  class=\"dial-dial\">/dial bazingasouth</p><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p><p  class=\"dial-coord\">X : 72 Y : 64 Z : 15039<br> ID : 1120 Added by : Who?</p></div>",
+                    "x": "72",
+                    "y": "64",
+                    "z": "15039",
+                    "icon": "building",
+                    "info": "",
+                    "dial": "bazingasouth"
+                },
+                "1121": {
+                    "label": "southwest",
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">southwest</h1><div class=\"dial-bar\"></div><p  class=\"dial-dial\">/dial southwest</p><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p><p  class=\"dial-coord\">X : -19980 Y : 64 Z : 19983<br> ID : 1121 Added by : Who?</p></div>",
+                    "x": "-19980",
+                    "y": "64",
+                    "z": "19983",
+                    "icon": "building",
+                    "info": "",
+                    "dial": "southwest"
+                },
+                "1122": {
+                    "label": "crystalspear",
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">crystalspear</h1><div class=\"dial-bar\"></div><p  class=\"dial-dial\">/dial </p><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p><p  class=\"dial-coord\">X : 81 Y : 64 Z : 19856<br> ID : 1122 Added by : Who?</p></div>",
+                    "x": "81",
+                    "y": "64",
+                    "z": "19856",
+                    "icon": "building",
+                    "info": "",
+                    "dial": ""
+                },
+                "1123": {
+                    "label": "Clear Castle",
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Clear Castle</h1><div class=\"dial-bar\"></div><p  class=\"dial-dial\">/dial clearcastle</p><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p><p  class=\"dial-coord\">X : -577 Y : 64 Z : -19808<br> ID : 1123 Added by : Who?</p></div>",
+                    "x": "-577",
+                    "y": "64",
+                    "z": "-19808",
+                    "icon": "building",
+                    "info": "",
+                    "dial": "clearcastle"
+                },
+                "1124": {
+                    "label": "north",
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">north</h1><div class=\"dial-bar\"></div><p  class=\"dial-dial\">/dial north</p><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p><p  class=\"dial-coord\">X : 15473 Y : 64 Z : -19995<br> ID : 1124 Added by : Who?</p></div>",
+                    "x": "15473",
+                    "y": "64",
+                    "z": "-19995",
+                    "icon": "building",
+                    "info": "",
+                    "dial": "north"
                 }
             }
         },
@@ -7719,6 +8069,76 @@
                     "icon": "farm",
                     "info": "",
                     "dial": "getpearls"
+                },
+                "983": {
+                    "label": "Get Dye",
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Get Dye</h1><div class=\"dial-bar\"></div><p  class=\"dial-dial\">/dial getdye</p><p  class=\"dial-info\">A farm for dyes, flowers, moss, drip stone</p><p  class=\"dial-wiki\"><a href=\"\"></a></p><p  class=\"dial-coord\">X : 7611 Y : 64 Z : 17525<br> ID : 983 Added by : Who?</p></div>",
+                    "x": "7611",
+                    "y": "64",
+                    "z": "17525",
+                    "icon": "farm",
+                    "info": "A farm for dyes, flowers, moss, drip stone",
+                    "dial": "getdye"
+                },
+                "984": {
+                    "label": "Spruce Moose",
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Spruce Moose</h1><div class=\"dial-bar\"></div><p  class=\"dial-dial\">/dial cspruce</p><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p><p  class=\"dial-coord\">X : -14193 Y : 64 Z : -3691<br> ID : 984 Added by : Who?</p></div>",
+                    "x": "-14193",
+                    "y": "64",
+                    "z": "-3691",
+                    "icon": "farm",
+                    "info": "",
+                    "dial": "cspruce"
+                },
+                "985": {
+                    "label": "Eztrial",
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Eztrial</h1><div class=\"dial-bar\"></div><p  class=\"dial-dial\">/dial eztrial</p><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p><p  class=\"dial-coord\">X : -12793 Y : 64 Z : -10095<br> ID : 985 Added by : Who?</p></div>",
+                    "x": "-12793",
+                    "y": "64",
+                    "z": "-10095",
+                    "icon": "farm",
+                    "info": "",
+                    "dial": "eztrial"
+                },
+                "986": {
+                    "label": "Ezraid",
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Ezraid</h1><div class=\"dial-bar\"></div><p  class=\"dial-dial\">/dial ezraid</p><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p><p  class=\"dial-coord\">X : -19750 Y : 64 Z : -10470<br> ID : 986 Added by : Who?</p></div>",
+                    "x": "-19750",
+                    "y": "64",
+                    "z": "-10470",
+                    "icon": "farm",
+                    "info": "",
+                    "dial": "ezraid"
+                },
+                "987": {
+                    "label": "getvillager",
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">getvillager</h1><div class=\"dial-bar\"></div><p  class=\"dial-dial\">/dial getvillager</p><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p><p  class=\"dial-coord\">X : 9507 Y : 64 Z : 17950<br> ID : 987 Added by : Who?</p></div>",
+                    "x": "9507",
+                    "y": "64",
+                    "z": "17950",
+                    "icon": "farm",
+                    "info": "",
+                    "dial": "getvillager"
+                },
+                "988": {
+                    "label": "cactus",
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">cactus</h1><div class=\"dial-bar\"></div><p  class=\"dial-dial\">/dial cactus</p><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p><p  class=\"dial-coord\">X : 11221 Y : 64 Z : -1059<br> ID : 988 Added by : Who?</p></div>",
+                    "x": "11221",
+                    "y": "64",
+                    "z": "-1059",
+                    "icon": "farm",
+                    "info": "",
+                    "dial": "cactus"
+                },
+                "989": {
+                    "label": "monument2-f",
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">monument2-f</h1><div class=\"dial-bar\"></div><p  class=\"dial-dial\">/dial monument2-f</p><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p><p  class=\"dial-coord\">X : -8899 Y : 64 Z : 18183<br> ID : 989 Added by : Who?</p></div>",
+                    "x": "-8899",
+                    "y": "64",
+                    "z": "18183",
+                    "icon": "farm",
+                    "info": "",
+                    "dial": "monument2-f"
                 }
             }
         },
@@ -8399,6 +8819,56 @@
                     "icon": "cart",
                     "info": "",
                     "dial": "trishop"
+                },
+                "941": {
+                    "label": "Eniuu Shop",
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Eniuu Shop</h1><div class=\"dial-bar\"></div><p  class=\"dial-dial\">/dial eniuushop</p><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p><p  class=\"dial-coord\">X : -19018 Y : 64 Z : -10122<br> ID : 941 Added by : Who?</p></div>",
+                    "x": "-19018",
+                    "y": "64",
+                    "z": "-10122",
+                    "icon": "cart",
+                    "info": "",
+                    "dial": "eniuushop"
+                },
+                "942": {
+                    "label": "BajShop",
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">BajShop</h1><div class=\"dial-bar\"></div><p  class=\"dial-dial\">/dial bajshop</p><p  class=\"dial-info\">Bajan Shop</p><p  class=\"dial-wiki\"><a href=\"\"></a></p><p  class=\"dial-coord\">X : -9218 Y : 64 Z : -19688<br> ID : 942 Added by : Who?</p></div>",
+                    "x": "-9218",
+                    "y": "64",
+                    "z": "-19688",
+                    "icon": "cart",
+                    "info": "Bajan Shop",
+                    "dial": "bajshop"
+                },
+                "943": {
+                    "label": "Ordawnia Markets",
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Ordawnia Markets</h1><div class=\"dial-bar\"></div><p  class=\"dial-dial\">/dial OrdawniaMarkets</p><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p><p  class=\"dial-coord\">X : -14692 Y : 64 Z : -11638<br> ID : 943 Added by : Who?</p></div>",
+                    "x": "-14692",
+                    "y": "64",
+                    "z": "-11638",
+                    "icon": "cart",
+                    "info": "",
+                    "dial": "OrdawniaMarkets"
+                },
+                "944": {
+                    "label": "watershop",
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">watershop</h1><div class=\"dial-bar\"></div><p  class=\"dial-dial\">/dial watershop</p><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p><p  class=\"dial-coord\">X : -14823 Y : 64 Z : 16282<br> ID : 944 Added by : Who?</p></div>",
+                    "x": "-14823",
+                    "y": "64",
+                    "z": "16282",
+                    "icon": "cart",
+                    "info": "",
+                    "dial": "watershop"
+                },
+                "945": {
+                    "label": "Amyshop",
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Amyshop</h1><div class=\"dial-bar\"></div><p  class=\"dial-dial\">/dial amyshop</p><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p><p  class=\"dial-coord\">X : 18925 Y : 64 Z : -12286<br> ID : 945 Added by : Who?</p></div>",
+                    "x": "18925",
+                    "y": "64",
+                    "z": "-12286",
+                    "icon": "cart",
+                    "info": "",
+                    "dial": "amyshop"
                 }
             }
         },
