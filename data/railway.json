@@ -179,7 +179,6 @@
                     "color": "#f5f5dc",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Spageti Line East</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Spageti Line East",
                     "opacity": 0.8,
                     "weight": 3,
@@ -250,7 +249,6 @@
                     "color": "#0000ff",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">dak line</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "dak line",
                     "opacity": 0.8,
                     "weight": 3,
@@ -309,7 +307,6 @@
                     "color": "#ffa500",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">octoline</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "octoline",
                     "opacity": 0.8,
                     "weight": 3,
@@ -524,7 +521,6 @@
                     "color": "#ffa500",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">octoline express</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "octoline express",
                     "opacity": 0.8,
                     "weight": 3,
@@ -555,7 +551,6 @@
                     "color": "#ffa500",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">octoline tround</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "octoline tround",
                     "opacity": 0.8,
                     "weight": 3,
@@ -611,6 +606,114 @@
                         [
                             -14765,
                             -18774
+                        ],
+                        [
+                            -13927,
+                            -18774
+                        ],
+                        [
+                            -13909,
+                            -18771
+                        ],
+                        [
+                            -13902,
+                            -18769
+                        ],
+                        [
+                            -13892,
+                            -18764
+                        ],
+                        [
+                            -13874,
+                            -18755
+                        ],
+                        [
+                            -13869,
+                            -18750
+                        ],
+                        [
+                            -13858,
+                            -18728
+                        ],
+                        [
+                            -13854,
+                            -18713
+                        ],
+                        [
+                            -13854,
+                            -18082
+                        ],
+                        [
+                            -13851,
+                            -18070
+                        ],
+                        [
+                            -13849,
+                            -18066
+                        ],
+                        [
+                            -13847,
+                            -18064
+                        ],
+                        [
+                            -13843,
+                            -18062
+                        ],
+                        [
+                            -13831,
+                            -18059
+                        ],
+                        [
+                            -13787,
+                            -18059
+                        ],
+                        [
+                            -13775,
+                            -18056
+                        ],
+                        [
+                            -13771,
+                            -18054
+                        ],
+                        [
+                            -13769,
+                            -18052
+                        ],
+                        [
+                            -13767,
+                            -18048
+                        ],
+                        [
+                            -13764,
+                            -18036
+                        ],
+                        [
+                            -13764,
+                            -17929
+                        ],
+                        [
+                            -13761,
+                            -17917
+                        ],
+                        [
+                            -13759,
+                            -17913
+                        ],
+                        [
+                            -13757,
+                            -17911
+                        ],
+                        [
+                            -13752,
+                            -17909
+                        ],
+                        [
+                            -13748,
+                            -17908
+                        ],
+                        [
+                            -13317,
+                            -17908
                         ]
                     ]
                 },
@@ -618,7 +721,6 @@
                     "color": "#8B4513",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">South Line</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "South Line",
                     "opacity": 0.8,
                     "weight": 3,
@@ -657,11 +759,14 @@
                     "color": "#00ffff",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Metro Line</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Metro Line",
                     "opacity": 0.8,
                     "weight": 3,
                     "points": [
+                        [
+                            -15222,
+                            -15000
+                        ],
                         [
                             -15233,
                             -15000
@@ -816,7 +921,6 @@
                     "color": "#800080",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Warden Line Tround</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Warden Line Tround",
                     "opacity": 0.8,
                     "weight": 3,
@@ -843,7 +947,6 @@
                     "color": "#800080",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Warden Line KSI Tround</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Warden Line KSI Tround",
                     "opacity": 0.8,
                     "weight": 3,
@@ -874,7 +977,6 @@
                     "color": "#808080",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Magic Railway (oneway)</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Magic Railway (oneway)",
                     "opacity": 0.8,
                     "weight": 3,
@@ -897,7 +999,6 @@
                     "color": "#00ff00",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Tea Line</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Tea Line",
                     "opacity": 0.8,
                     "weight": 3,
@@ -948,7 +1049,6 @@
                     "color": "#00ff00",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Duplex Line (viliger mover)</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Duplex Line (viliger mover)",
                     "opacity": 0.8,
                     "weight": 3,
@@ -991,7 +1091,6 @@
                     "color": "#8b0000",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Admin Line S1N</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Admin Line S1N",
                     "opacity": 0.8,
                     "weight": 3,
@@ -1010,7 +1109,6 @@
                     "color": "#8b0000",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Admin Line S1S</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Admin Line S1S",
                     "opacity": 0.8,
                     "weight": 3,
@@ -1029,7 +1127,6 @@
                     "color": "#8b0000",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Admin Line S1S</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Admin Line S1S",
                     "opacity": 0.8,
                     "weight": 3,
@@ -1048,7 +1145,6 @@
                     "color": "#8b0000",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Admin Line S1E</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Admin Line S1E",
                     "opacity": 0.8,
                     "weight": 3,
@@ -1067,7 +1163,6 @@
                     "color": "#8b0000",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Admin Line 3825N</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Admin Line 3825N",
                     "opacity": 0.8,
                     "weight": 3,
@@ -1086,7 +1181,6 @@
                     "color": "#8b0000",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Admin Line 1912N</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Admin Line 1912N",
                     "opacity": 0.8,
                     "weight": 3,
@@ -1105,7 +1199,6 @@
                     "color": "#8b0000",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Admin Line 6000N</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Admin Line 6000N",
                     "opacity": 0.8,
                     "weight": 3,
@@ -1124,7 +1217,6 @@
                     "color": "#8b0000",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Admin Line S1E</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Admin Line S1E",
                     "opacity": 0.8,
                     "weight": 3,
@@ -1143,7 +1235,6 @@
                     "color": "#8b0000",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">14connector</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "14connector",
                     "opacity": 0.8,
                     "weight": 3,
@@ -1166,7 +1257,6 @@
                     "color": "#8b0000",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">13-14westline</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "13-14westline",
                     "opacity": 0.8,
                     "weight": 3,
@@ -1185,7 +1275,6 @@
                     "color": "#008080",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Cthulhu Mine Tround</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Cthulhu Mine Tround",
                     "opacity": 0.8,
                     "weight": 3,
@@ -1240,7 +1329,6 @@
                     "color": "#008080",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Cthulhu Getwood2 Tround</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Cthulhu Getwood2 Tround",
                     "opacity": 0.8,
                     "weight": 3,
@@ -1323,7 +1411,6 @@
                     "color": "#00ff00",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Cthulhu Line</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Cthulhu Line",
                     "opacity": 0.8,
                     "weight": 3,
@@ -1366,7 +1453,6 @@
                     "color": "#8b0000",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">13connector</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "13connector",
                     "opacity": 0.8,
                     "weight": 3,
@@ -1385,7 +1471,6 @@
                     "color": "#8b0000",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Admin Line 8000N</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Admin Line 8000N",
                     "opacity": 0.8,
                     "weight": 3,
@@ -1404,13 +1489,12 @@
                     "color": "#8b0000",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Admin Line 2168N</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Admin Line 2168N",
                     "opacity": 0.8,
                     "weight": 3,
                     "points": [
                         [
-                            -10000,
+                            -8000,
                             2168
                         ],
                         [
@@ -1423,7 +1507,6 @@
                     "color": "#8b0000",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Admin Line 6000E</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Admin Line 6000E",
                     "opacity": 0.8,
                     "weight": 3,
@@ -1442,7 +1525,6 @@
                     "color": "#8b0000",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Admin Rail 2124E</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Admin Rail 2124E",
                     "opacity": 0.8,
                     "weight": 3,
@@ -1461,7 +1543,6 @@
                     "color": "#008080",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Cthulhu StarlightV1 Tround</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Cthulhu StarlightV1 Tround",
                     "opacity": 0.8,
                     "weight": 3,
@@ -1512,7 +1593,6 @@
                     "color": "#8b0000",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Admin Rail -8000N</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Admin Rail -8000N",
                     "opacity": 0.8,
                     "weight": 3,
@@ -1531,7 +1611,6 @@
                     "color": "#8b0000",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Admin Rail -4023E</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Admin Rail -4023E",
                     "opacity": 0.8,
                     "weight": 3,
@@ -1550,7 +1629,6 @@
                     "color": "#8b0000",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Admin Rail 8000E</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Admin Rail 8000E",
                     "opacity": 0.8,
                     "weight": 3,
@@ -1569,7 +1647,6 @@
                     "color": "#ff0000",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Fall Line</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Fall Line",
                     "opacity": 0.8,
                     "weight": 3,
@@ -1772,7 +1849,6 @@
                     "color": "#00ff00",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Bayou Line</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Bayou Line",
                     "opacity": 0.8,
                     "weight": 3,
@@ -1863,7 +1939,6 @@
                     "color": "#8b0000",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Admin Line -10000E</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Admin Line -10000E",
                     "opacity": 0.8,
                     "weight": 3,
@@ -1882,7 +1957,6 @@
                     "color": "#808000",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Amzos Rail 1</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Amzos Rail 1",
                     "opacity": 0.8,
                     "weight": 3,
@@ -2033,7 +2107,6 @@
                     "color": "#808000",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Amzos Rail 2 SOUTH</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Amzos Rail 2 SOUTH",
                     "opacity": 0.8,
                     "weight": 3,
@@ -2092,7 +2165,6 @@
                     "color": "#808000",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Amzos Rail 2 NORTH</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Amzos Rail 2 NORTH",
                     "opacity": 0.8,
                     "weight": 3,
@@ -2143,7 +2215,6 @@
                     "color": "#00ffff",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Bob Line</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Bob Line",
                     "opacity": 0.8,
                     "weight": 3,
@@ -2170,7 +2241,6 @@
                     "color": "#8b0000",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Admin Line -8000E</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Admin Line -8000E",
                     "opacity": 0.8,
                     "weight": 3,
@@ -2189,7 +2259,6 @@
                     "color": "#8b0000",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Admin Line SWLaneway</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Admin Line SWLaneway",
                     "opacity": 0.8,
                     "weight": 3,
@@ -2208,7 +2277,6 @@
                     "color": "#8b0000",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Admin Line SWRoad</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Admin Line SWRoad",
                     "opacity": 0.8,
                     "weight": 3,
@@ -2227,7 +2295,6 @@
                     "color": "#ffff00",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Utopia Line</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Utopia Line",
                     "opacity": 0.8,
                     "weight": 3,
@@ -2249,32 +2316,12 @@
                             -15544
                         ],
                         [
-                            -15360,
-                            -15560
+                            -15363,
+                            -15564
                         ],
                         [
-                            -15328,
-                            -15560
-                        ],
-                        [
-                            -15328,
-                            -15640
-                        ],
-                        [
-                            -15136,
-                            -15640
-                        ],
-                        [
-                            -15136,
-                            -15560
-                        ],
-                        [
-                            -15096,
-                            -15560
-                        ],
-                        [
-                            -14404,
-                            -15563
+                            -14405,
+                            -15564
                         ],
                         [
                             -14404,
@@ -2325,7 +2372,7 @@
                             -16013
                         ],
                         [
-                            -14194,
+                            -14150,
                             -16013
                         ],
                         [
@@ -2338,7 +2385,7 @@
                         ],
                         [
                             -14191,
-                            -16096
+                            -16110
                         ],
                         [
                             -13973,
@@ -2382,7 +2429,6 @@
                     "color": "#ff00ff",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Enoki Highway</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Enoki Highway",
                     "opacity": 0.8,
                     "weight": 3,
@@ -2821,7 +2867,6 @@
                     "color": "#00ff00",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Copper Line</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Copper Line",
                     "opacity": 0.8,
                     "weight": 3,
@@ -2880,7 +2925,6 @@
                     "color": "#800000",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Serenada Connector 1</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Serenada Connector 1",
                     "opacity": 0.8,
                     "weight": 3,
@@ -2947,7 +2991,6 @@
                     "color": "#800000",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Serenada Connector 2</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Serenada Connector 2",
                     "opacity": 0.8,
                     "weight": 3,
@@ -3014,7 +3057,6 @@
                     "color": "#8b0000",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Admin Line 4024E</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Admin Line 4024E",
                     "opacity": 0.8,
                     "weight": 3,
@@ -3033,13 +3075,12 @@
                     "color": "#8b0000",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Admin Line 4068N</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Admin Line 4068N",
                     "opacity": 0.8,
                     "weight": 3,
                     "points": [
                         [
-                            -10000,
+                            1701,
                             4068
                         ],
                         [
@@ -3052,7 +3093,6 @@
                     "color": "#00ffff",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Rive Farms Railway</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Rive Farms Railway",
                     "opacity": 0.8,
                     "weight": 3,
@@ -3127,7 +3167,6 @@
                     "color": "#ff00ff",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">OldNFG Railway</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "OldNFG Railway",
                     "opacity": 0.8,
                     "weight": 3,
@@ -3154,7 +3193,6 @@
                     "color": "#ffff00",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Utopia Line</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Utopia Line",
                     "opacity": 0.8,
                     "weight": 3,
@@ -3245,7 +3283,6 @@
                     "color": "#ff0000",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Puktown North Line</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Puktown North Line",
                     "opacity": 0.8,
                     "weight": 3,
@@ -3304,7 +3341,6 @@
                     "color": "#8b0000",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Admin Line 9connector</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Admin Line 9connector",
                     "opacity": 0.8,
                     "weight": 3,
@@ -3323,7 +3359,6 @@
                     "color": "#8b0000",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Admin Line MNTC Connector</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Admin Line MNTC Connector",
                     "opacity": 0.8,
                     "weight": 3,
@@ -3374,7 +3409,6 @@
                     "color": "#add8e6",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Union Line</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Union Line",
                     "opacity": 0.8,
                     "weight": 3,
@@ -3461,7 +3495,6 @@
                     "color": "#ff4500",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Novylen Ice Highway Underground Network</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Novylen Ice Highway Underground Network",
                     "opacity": 0.8,
                     "weight": 3,
@@ -3480,7 +3513,6 @@
                     "color": "#008080",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Cthulhu Express Ironside Tround</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Cthulhu Express Ironside Tround",
                     "opacity": 0.8,
                     "weight": 3,
@@ -3635,7 +3667,6 @@
                     "color": "#008080",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Cthulhu Express</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Cthulhu Express",
                     "opacity": 0.8,
                     "weight": 3,
@@ -4129,24 +4160,156 @@
                             5269
                         ],
                         [
-                            -12965,
-                            5270
+                            -13518,
+                            5269
                         ],
                         [
-                            -12965,
-                            5312
+                            -13518,
+                            5280
+                        ],
+                        [
+                            -13485,
+                            5280
+                        ],
+                        [
+                            -13485,
+                            5406
+                        ],
+                        [
+                            -13396,
+                            5406
+                        ],
+                        [
+                            -13395,
+                            5405
+                        ],
+                        [
+                            -13390,
+                            5405
+                        ],
+                        [
+                            -12835,
+                            5405
+                        ],
+                        [
+                            -12835,
+                            5416
+                        ],
+                        [
+                            -12805,
+                            5416
+                        ],
+                        [
+                            -12805,
+                            5402
                         ],
                         [
                             -12641,
-                            5312
+                            5402
                         ],
                         [
                             -12641,
                             5527
                         ],
                         [
-                            -12807,
+                            -12670,
                             5527
+                        ],
+                        [
+                            -12684,
+                            5527
+                        ],
+                        [
+                            -12712,
+                            5527
+                        ],
+                        [
+                            -12743,
+                            5527
+                        ],
+                        [
+                            -12891,
+                            5527
+                        ],
+                        [
+                            -12893,
+                            5527
+                        ],
+                        [
+                            -12901,
+                            5527
+                        ],
+                        [
+                            -12901,
+                            5544
+                        ],
+                        [
+                            -12901,
+                            5564
+                        ],
+                        [
+                            -12981,
+                            5564
+                        ],
+                        [
+                            -13042,
+                            5564
+                        ],
+                        [
+                            -13191,
+                            5564
+                        ],
+                        [
+                            -13213,
+                            5564
+                        ],
+                        [
+                            -13213,
+                            5581
+                        ],
+                        [
+                            -13213,
+                            5646
+                        ],
+                        [
+                            -13213,
+                            5885
+                        ],
+                        [
+                            -13213,
+                            5929
+                        ],
+                        [
+                            -13213,
+                            5987
+                        ],
+                        [
+                            -13213,
+                            6003
+                        ],
+                        [
+                            -13213,
+                            6026
+                        ],
+                        [
+                            -13213,
+                            6034
+                        ],
+                        [
+                            -13213,
+                            6166
+                        ],
+                        [
+                            -13213,
+                            6180
+                        ],
+                        [
+                            -13213,
+                            6201
+                        ],
+                        [
+                            -13213,
+                            8793
                         ]
                     ]
                 },
@@ -4154,38 +4317,37 @@
                     "color": "#800080",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Warden Line</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Warden Line",
                     "opacity": 0.8,
                     "weight": 3,
                     "points": [
                         [
-                            -19289,
-                            -10714
+                            -19524,
+                            -10150
                         ],
                         [
-                            -19289,
-                            -10729
+                            -19524,
+                            -10513
                         ],
                         [
-                            -19242,
-                            -10729
+                            -19393,
+                            -10513
                         ],
                         [
-                            -19227,
-                            -10729
+                            -19393,
+                            -10669
                         ],
                         [
-                            -19227,
-                            -10861
+                            -19421,
+                            -10669
+                        ],
+                        [
+                            -19421,
+                            -10961
                         ],
                         [
                             -19152,
-                            -10861
-                        ],
-                        [
-                            -19152,
-                            -10869
+                            -10961
                         ],
                         [
                             -19152,
@@ -4577,7 +4739,6 @@
                     "color": "#800080",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Warden Line Chaotica Tround</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Warden Line Chaotica Tround",
                     "opacity": 0.8,
                     "weight": 3,
@@ -4596,7 +4757,6 @@
                     "color": "#4682B4",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Rootrail</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Rootrail",
                     "opacity": 0.8,
                     "weight": 3,
@@ -4663,7 +4823,6 @@
                     "color": "#FF1493",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Cherry Line</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Cherry Line",
                     "opacity": 0.8,
                     "weight": 3,
@@ -4790,7 +4949,6 @@
                     "color": "#8b0000",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Admin Line 10000N</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Admin Line 10000N",
                     "opacity": 0.8,
                     "weight": 3,
@@ -4825,7 +4983,6 @@
                     "color": "#8b0000",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Admin Line 10000N Detour</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Admin Line 10000N Detour",
                     "opacity": 0.8,
                     "weight": 3,
@@ -4860,7 +5017,6 @@
                     "color": "#8b0000",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Admin Line 8000E</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Admin Line 8000E",
                     "opacity": 0.8,
                     "weight": 3,
@@ -4879,7 +5035,6 @@
                     "color": "#ffff00",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Utopia Canyon Line</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Utopia Canyon Line",
                     "opacity": 0.8,
                     "weight": 3,
@@ -4914,7 +5069,6 @@
                     "color": "#8b0000",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">15connector</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "15connector",
                     "opacity": 0.8,
                     "weight": 3,
@@ -4941,7 +5095,6 @@
                     "color": "#ff1493",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Cherry Line 15spawn Tround</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\">test</p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Cherry Line 15spawn Tround",
                     "opacity": 0.8,
                     "weight": 3,
@@ -5040,7 +5193,6 @@
                     "color": "#850505",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Nordawnia Railway</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Nordawnia Railway",
                     "opacity": 0.8,
                     "weight": 3,
@@ -5087,11 +5239,74 @@
                     "color": "#ff8181",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Cthulhuland Metro</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Cthulhuland Metro",
                     "opacity": 0.8,
                     "weight": 3,
                     "points": [
+                        [
+                            -13134,
+                            5212
+                        ],
+                        [
+                            -13204,
+                            5212
+                        ],
+                        [
+                            -13204,
+                            5364
+                        ],
+                        [
+                            -13204,
+                            5366
+                        ],
+                        [
+                            -13204,
+                            5371
+                        ],
+                        [
+                            -13206,
+                            5373
+                        ],
+                        [
+                            -13206,
+                            5380
+                        ],
+                        [
+                            -13204,
+                            5382
+                        ],
+                        [
+                            -13204,
+                            5386
+                        ],
+                        [
+                            -13204,
+                            5388
+                        ],
+                        [
+                            -13204,
+                            5568
+                        ],
+                        [
+                            -13037,
+                            5568
+                        ],
+                        [
+                            -13037,
+                            5582
+                        ],
+                        [
+                            -13037,
+                            5584
+                        ],
+                        [
+                            -13037,
+                            5673
+                        ],
+                        [
+                            -12903,
+                            5673
+                        ],
                         [
                             -12903,
                             5658
@@ -5190,7 +5405,6 @@
                     "color": "#ff7300",
                     "markup": false,
                     "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Cthulhuland Tourer</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\">Tour around Central Cthulhuland!</p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
                     "label": "Cthulhuland Tourer",
                     "opacity": 0.8,
                     "weight": 3,
@@ -5288,9 +5502,8 @@
                 "141": {
                     "color": "#ff00fb",
                     "markup": false,
-                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">North Wayland Railway</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
-                    
-                    "label": "North Wayland Railway",
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Wayland Farms Connector</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
+                    "label": "Wayland Farms Connector",
                     "opacity": 0.8,
                     "weight": 3,
                     "points": [
@@ -5325,6 +5538,1054 @@
                         [
                             -17575,
                             -18742
+                        ],
+                        [
+                            -17575,
+                            -18821
+                        ],
+                        [
+                            -17575,
+                            -18822
+                        ],
+                        [
+                            -17575,
+                            -18835
+                        ],
+                        [
+                            -17575,
+                            -18836
+                        ],
+                        [
+                            -17575,
+                            -18840
+                        ],
+                        [
+                            -17575,
+                            -18846
+                        ],
+                        [
+                            -17575,
+                            -18938
+                        ],
+                        [
+                            -17575,
+                            -18941
+                        ],
+                        [
+                            -17575,
+                            -18948
+                        ],
+                        [
+                            -17575,
+                            -18949
+                        ],
+                        [
+                            -17575,
+                            -18950
+                        ],
+                        [
+                            -17574,
+                            -18950
+                        ],
+                        [
+                            -17574,
+                            -18952
+                        ],
+                        [
+                            -17574,
+                            -18953
+                        ],
+                        [
+                            -17574,
+                            -18962
+                        ],
+                        [
+                            -17568,
+                            -18962
+                        ],
+                        [
+                            -17568,
+                            -18965
+                        ],
+                        [
+                            -17551,
+                            -18965
+                        ],
+                        [
+                            -17549,
+                            -18965
+                        ],
+                        [
+                            -17549,
+                            -18966
+                        ],
+                        [
+                            -17526,
+                            -18966
+                        ],
+                        [
+                            -17526,
+                            -18964
+                        ],
+                        [
+                            -17517,
+                            -18964
+                        ],
+                        [
+                            -17517,
+                            -18963
+                        ],
+                        [
+                            -17507,
+                            -18963
+                        ],
+                        [
+                            -17506,
+                            -18964
+                        ],
+                        [
+                            -17505,
+                            -18964
+                        ],
+                        [
+                            -17504,
+                            -18964
+                        ],
+                        [
+                            -17502,
+                            -18964
+                        ],
+                        [
+                            -17502,
+                            -18965
+                        ],
+                        [
+                            -17498,
+                            -18965
+                        ],
+                        [
+                            -17497,
+                            -18965
+                        ],
+                        [
+                            -17493,
+                            -18965
+                        ],
+                        [
+                            -17492,
+                            -18965
+                        ],
+                        [
+                            -17489,
+                            -18965
+                        ],
+                        [
+                            -17483,
+                            -18965
+                        ],
+                        [
+                            -17483,
+                            -18965
+                        ],
+                        [
+                            -17482,
+                            -18965
+                        ],
+                        [
+                            -17474,
+                            -18965
+                        ],
+                        [
+                            -17473,
+                            -18965
+                        ],
+                        [
+                            -17472,
+                            -18965
+                        ],
+                        [
+                            -17470,
+                            -18965
+                        ],
+                        [
+                            -17468,
+                            -18965
+                        ],
+                        [
+                            -17467,
+                            -18965
+                        ],
+                        [
+                            -17463,
+                            -18965
+                        ],
+                        [
+                            -17442,
+                            -18948
+                        ],
+                        [
+                            -17430,
+                            -18944
+                        ],
+                        [
+                            -17421,
+                            -18944
+                        ],
+                        [
+                            -17419,
+                            -18944
+                        ],
+                        [
+                            -17419,
+                            -18946
+                        ]
+                    ]
+                },
+                "142": {
+                    "color": "#ff00fb",
+                    "markup": false,
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Wayland Northbound Connector</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
+                    "label": "Wayland Northbound Connector",
+                    "opacity": 0.8,
+                    "weight": 3,
+                    "points": [
+                        [
+                            -17415,
+                            -18944
+                        ],
+                        [
+                            -17415,
+                            -18946
+                        ],
+                        [
+                            -17404,
+                            -18946
+                        ],
+                        [
+                            -17402,
+                            -18946
+                        ],
+                        [
+                            -17396,
+                            -18944
+                        ],
+                        [
+                            -17391,
+                            -18937
+                        ],
+                        [
+                            -17370,
+                            -18937
+                        ],
+                        [
+                            -17368,
+                            -18935
+                        ],
+                        [
+                            -17336,
+                            -18935
+                        ],
+                        [
+                            -17363,
+                            -18935
+                        ],
+                        [
+                            -17360,
+                            -18935
+                        ],
+                        [
+                            -17355,
+                            -18940
+                        ],
+                        [
+                            -17355,
+                            -18952
+                        ],
+                        [
+                            -17355,
+                            -18961
+                        ],
+                        [
+                            -17355,
+                            -18997
+                        ],
+                        [
+                            -17346,
+                            -18997
+                        ],
+                        [
+                            -17346,
+                            -19029
+                        ],
+                        [
+                            -17330,
+                            -19029
+                        ],
+                        [
+                            -17328,
+                            -19032
+                        ],
+                        [
+                            -17321,
+                            -19032
+                        ],
+                        [
+                            -17321,
+                            -19031
+                        ],
+                        [
+                            -17318,
+                            -19031
+                        ],
+                        [
+                            -17281,
+                            -19031
+                        ],
+                        [
+                            -17267,
+                            -19031
+                        ],
+                        [
+                            -17267,
+                            -19045
+                        ],
+                        [
+                            -17267,
+                            -19139
+                        ],
+                        [
+                            -17267,
+                            -19153
+                        ],
+                        [
+                            -17267,
+                            -19189
+                        ],
+                        [
+                            -17267,
+                            -19198
+                        ],
+                        [
+                            -17267,
+                            -19223
+                        ],
+                        [
+                            -17267,
+                            -19224
+                        ],
+                        [
+                            -17267,
+                            -19260
+                        ],
+                        [
+                            -17267,
+                            -19267
+                        ],
+                        [
+                            -17267,
+                            -19343
+                        ],
+                        [
+                            -17267,
+                            -19344
+                        ],
+                        [
+                            -17267,
+                            -19349
+                        ],
+                        [
+                            -17263,
+                            -19363
+                        ],
+                        [
+                            -17260,
+                            -19366
+                        ],
+                        [
+                            -17260,
+                            -19372
+                        ],
+                        [
+                            -17260,
+                            -19426
+                        ],
+                        [
+                            -17255,
+                            -19446
+                        ],
+                        [
+                            -17242,
+                            -19446
+                        ],
+                        [
+                            -17222,
+                            -19454
+                        ],
+                        [
+                            -17210,
+                            -19454
+                        ],
+                        [
+                            -17206,
+                            -19454
+                        ],
+                        [
+                            -17171,
+                            -19454
+                        ],
+                        [
+                            -17164,
+                            -19454
+                        ],
+                        [
+                            -17162,
+                            -19454
+                        ]
+                    ]
+                },
+                "143": {
+                    "color": "#ff8181",
+                    "markup": false,
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Cthulhuland Metro CTT Tround</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
+                    "label": "Cthulhuland Metro CTT Tround",
+                    "opacity": 0.8,
+                    "weight": 3,
+                    "points": [
+                        [
+                            -13204,
+                            5231
+                        ],
+                        [
+                            -13474,
+                            5231
+                        ],
+                        [
+                            -13474,
+                            5264
+                        ],
+                        [
+                            -13474,
+                            5265
+                        ],
+                        [
+                            -13484,
+                            5265
+                        ],
+                        [
+                            -13484,
+                            5279
+                        ],
+                        [
+                            -13483,
+                            5279
+                        ],
+                        [
+                            -13483,
+                            5404
+                        ],
+                        [
+                            -13399,
+                            5404
+                        ],
+                        [
+                            -13399,
+                            5400
+                        ]
+                    ]
+                },
+                "144": {
+                    "color": "#f2ff38",
+                    "markup": false,
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Utopia North Line</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
+                    "label": "Utopia North Line",
+                    "opacity": 0.8,
+                    "weight": 3,
+                    "points": [
+                        [
+                            -14184,
+                            -16100
+                        ],
+                        [
+                            -14184,
+                            -16155
+                        ],
+                        [
+                            -14182,
+                            -16157
+                        ],
+                        [
+                            -14182,
+                            -16179
+                        ],
+                        [
+                            -14153,
+                            -16179
+                        ],
+                        [
+                            -14153,
+                            -16210
+                        ],
+                        [
+                            -14153,
+                            -16221
+                        ],
+                        [
+                            -14153,
+                            -16233
+                        ],
+                        [
+                            -14153,
+                            -16261
+                        ],
+                        [
+                            -14153,
+                            -16270
+                        ],
+                        [
+                            -14153,
+                            -16277
+                        ],
+                        [
+                            -14153,
+                            -16300
+                        ],
+                        [
+                            -14153,
+                            -16343
+                        ],
+                        [
+                            -14153,
+                            -16370
+                        ],
+                        [
+                            -14153,
+                            -16383
+                        ],
+                        [
+                            -14153,
+                            -16434
+                        ],
+                        [
+                            -13984,
+                            -16434
+                        ],
+                        [
+                            -13984,
+                            -16548
+                        ],
+                        [
+                            -13984,
+                            -16548
+                        ],
+                        [
+                            -13984,
+                            -16726
+                        ],
+                        [
+                            -13911,
+                            -16726
+                        ],
+                        [
+                            -13911,
+                            -16726
+                        ],
+                        [
+                            -13911,
+                            -16856
+                        ],
+                        [
+                            -13911,
+                            -16860
+                        ],
+                        [
+                            -13911,
+                            -16931
+                        ],
+                        [
+                            -13911,
+                            -17443
+                        ],
+                        [
+                            -13994,
+                            -17443
+                        ],
+                        [
+                            -14021,
+                            -17443
+                        ],
+                        [
+                            -14087,
+                            -17443
+                        ],
+                        [
+                            -14091,
+                            -17443
+                        ],
+                        [
+                            -14118,
+                            -17443
+                        ],
+                        [
+                            -14118,
+                            -17449
+                        ],
+                        [
+                            -14118,
+                            -17478
+                        ],
+                        [
+                            -14118,
+                            -17502
+                        ],
+                        [
+                            -14118,
+                            -17509
+                        ],
+                        [
+                            -14118,
+                            -17528
+                        ],
+                        [
+                            -14118,
+                            -17544
+                        ],
+                        [
+                            -14118,
+                            -17943
+                        ],
+                        [
+                            -14118,
+                            -17943
+                        ],
+                        [
+                            -14118,
+                            -17957
+                        ],
+                        [
+                            -14118,
+                            -17972
+                        ],
+                        [
+                            -14180,
+                            -17972
+                        ],
+                        [
+                            -14180,
+                            -17997
+                        ],
+                        [
+                            -14266,
+                            -17997
+                        ],
+                        [
+                            -14310,
+                            -17997
+                        ],
+                        [
+                            -14509,
+                            -17997
+                        ],
+                        [
+                            -14516,
+                            -17997
+                        ],
+                        [
+                            -14807,
+                            -17997
+                        ],
+                        [
+                            -14807,
+                            -17997
+                        ],
+                        [
+                            -14833,
+                            -17997
+                        ],
+                        [
+                            -14837,
+                            -17997
+                        ],
+                        [
+                            -14876,
+                            -17997
+                        ],
+                        [
+                            -14900,
+                            -17997
+                        ],
+                        [
+                            -14913,
+                            -17997
+                        ],
+                        [
+                            -14913,
+                            -18077
+                        ],
+                        [
+                            -14913,
+                            -18086
+                        ],
+                        [
+                            -14913,
+                            -18179
+                        ],
+                        [
+                            -14913,
+                            -18184
+                        ],
+                        [
+                            -14913,
+                            -18365
+                        ],
+                        [
+                            -14913,
+                            -18370
+                        ],
+                        [
+                            -14913,
+                            -18415
+                        ],
+                        [
+                            -14913,
+                            -18430
+                        ],
+                        [
+                            -14913,
+                            -18491
+                        ],
+                        [
+                            -14925,
+                            -18491
+                        ],
+                        [
+                            -14939,
+                            -18511
+                        ],
+                        [
+                            -14939,
+                            -18597
+                        ],
+                        [
+                            -14939,
+                            -18658
+                        ],
+                        [
+                            -14939,
+                            -18658
+                        ],
+                        [
+                            -14939,
+                            -18713
+                        ],
+                        [
+                            -14952,
+                            -18713
+                        ],
+                        [
+                            -14952,
+                            -18720
+                        ],
+                        [
+                            -15035,
+                            -18720
+                        ],
+                        [
+                            -15035,
+                            -18752
+                        ],
+                        [
+                            -15031,
+                            -18759
+                        ],
+                        [
+                            -15031,
+                            -18767
+                        ],
+                        [
+                            -15031,
+                            -18781
+                        ],
+                        [
+                            -15031,
+                            -18789
+                        ],
+                        [
+                            -15031,
+                            -18789
+                        ],
+                        [
+                            -15035,
+                            -18796
+                        ],
+                        [
+                            -15035,
+                            -18857
+                        ],
+                        [
+                            -15035,
+                            -18857
+                        ],
+                        [
+                            -15035,
+                            -18879
+                        ]
+                    ]
+                },
+                "145": {
+                    "color": "#848dab",
+                    "markup": false,
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">FrameWalker Line</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
+                    "label": "FrameWalker Line",
+                    "opacity": 0.8,
+                    "weight": 3,
+                    "points": [
+                        [
+                            -13580,
+                            -15000
+                        ],
+                        [
+                            -13580,
+                            -15309
+                        ]
+                    ]
+                },
+                "146": {
+                    "color": "#90e3ff",
+                    "markup": false,
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">CTH West-East Line</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
+                    "label": "CTH West-East Line",
+                    "opacity": 0.8,
+                    "weight": 3,
+                    "points": [
+                        [
+                            -12954,
+                            5677
+                        ],
+                        [
+                            -12954,
+                            5681
+                        ],
+                        [
+                            -12891,
+                            5681
+                        ],
+                        [
+                            -12891,
+                            5672
+                        ],
+                        [
+                            -12673,
+                            5672
+                        ],
+                        [
+                            -12666,
+                            5672
+                        ],
+                        [
+                            -12132,
+                            5672
+                        ],
+                        [
+                            -12132,
+                            5672
+                        ]
+                    ]
+                },
+                "147": {
+                    "color": "#90e3ff",
+                    "markup": false,
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">CTH West-East Line</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
+                    "label": "CTH West-East Line",
+                    "opacity": 0.8,
+                    "weight": 3,
+                    "points": [
+                        [
+                            -12891,
+                            5672
+                        ],
+                        [
+                            -12891,
+                            5668
+                        ],
+                        [
+                            -12954,
+                            5668
+                        ],
+                        [
+                            -12954,
+                            5677
+                        ],
+                        [
+                            -13196,
+                            5677
+                        ],
+                        [
+                            -13209,
+                            5677
+                        ],
+                        [
+                            -13217,
+                            5677
+                        ],
+                        [
+                            -13230,
+                            5677
+                        ],
+                        [
+                            -13323,
+                            5677
+                        ],
+                        [
+                            -13323,
+                            5677
+                        ]
+                    ]
+                },
+                "148": {
+                    "color": "#213769",
+                    "markup": false,
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Unnamed Line</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\"></p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
+                    "label": "Unnamed Line",
+                    "opacity": 0.8,
+                    "weight": 3,
+                    "points": [
+                        [
+                            -18443,
+                            -10018
+                        ],
+                        [
+                            -18443,
+                            -10002
+                        ],
+                        [
+                            -18934,
+                            -10002
+                        ],
+                        [
+                            -18936,
+                            -10000
+                        ],
+                        [
+                            -19045,
+                            -10000
+                        ],
+                        [
+                            -19045,
+                            -10083
+                        ],
+                        [
+                            -19058,
+                            -10083
+                        ],
+                        [
+                            -19108,
+                            -10083
+                        ],
+                        [
+                            -19108,
+                            -10552
+                        ],
+                        [
+                            -19418,
+                            -10552
+                        ],
+                        [
+                            -19418,
+                            -10758
+                        ]
+                    ]
+                },
+                "149": {
+                    "color": "#f2ff00",
+                    "markup": false,
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Paun Line</h1><div class=\"dial-bar\"></div><p  class=\"dial-info\">Created by Paun_</p><p  class=\"dial-wiki\"><a href=\"\"></a></p></div>",
+                    "label": "Paun Line",
+                    "opacity": 0.8,
+                    "weight": 3,
+                    "points": [
+                        [
+                            -9985,
+                            -6801
+                        ],
+                        [
+                            -10032,
+                            -6801
+                        ],
+                        [
+                            -10034,
+                            -6801
+                        ],
+                        [
+                            -10098,
+                            -6801
+                        ],
+                        [
+                            -10100,
+                            -6800
+                        ],
+                        [
+                            -10857,
+                            -6800
+                        ],
+                        [
+                            -10861,
+                            -6800
+                        ],
+                        [
+                            -10869,
+                            -6800
+                        ],
+                        [
+                            -10874,
+                            -6800
+                        ],
+                        [
+                            -10886,
+                            -6800
+                        ],
+                        [
+                            -10902,
+                            -6800
+                        ],
+                        [
+                            -10970,
+                            -6800
+                        ],
+                        [
+                            -11666,
+                            -6800
+                        ],
+                        [
+                            -11695,
+                            -6800
+                        ],
+                        [
+                            -11765,
+                            -6800
+                        ],
+                        [
+                            -11765,
+                            -6819
+                        ],
+                        [
+                            -12017,
+                            -6819
+                        ],
+                        [
+                            -12019,
+                            -6819
+                        ],
+                        [
+                            -12038,
+                            -6819
+                        ],
+                        [
+                            -12040,
+                            -6819
+                        ],
+                        [
+                            -12243,
+                            -6819
                         ]
                     ]
                 }
@@ -5364,7 +6625,202 @@
             "markers": [],
             "lines": [],
             "layerprio": 0
+        },
+        "regions": {
+            "hide": false,
+            "circles": {},
+            "markers": {},
+            "lines": {},
+            "label": "Town Borders",
+            "areas": {
+                "2": {
+                    "color": "#08e84f",
+                    "fillcolor": "#08e84f",
+                    "opacity": 0.3,
+                    "fillopacity": 0,
+                    "weight": 2,
+                    "markup": false,
+                    "label": "Cthulhuland",
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Cthulhuland</h1><div class=\"dial-bar\"></div><p class=\"dial-dial\">/dial CTH</p><p class=\"dial-info\">A City and Cult about worshiping Cthulhu.</p><p class=\"dial-coord\">Owners: HeroSuperDylan, ChiefMc___, ClassyCreeper27, Dakto_, GideonShortShack, RavM_GOAL, RobOf2008, TEKXD_HK47, TomDaltz, purepukka, tabdroid</p><p class=\"dial-coord\">Members: See wiki page</p><p class=\"dial-coord\">Railways: Cthulhu Express, Cthulhuland Metro, Cthulhuland Tourer, Cthulhu Line</p><p class=\"dial-wiki\"><a href=\"https://wiki.minecraft.novylen.net/index.php/Cthulhuland\">https://wiki.minecraft.novylen.net/index.php/Cthulhuland</a></p></div>",
+                    "x": [
+                        -12554,
+                        -12554,
+                        -12688,
+                        -12688,
+                        -12925,
+                        -12925,
+                        -13040,
+                        -13040,
+                        -13126,
+                        -13126,
+                        -13407,
+                        -13407,
+                        -13577,
+                        -13577,
+                        -13327,
+                        -13327,
+                        -12863,
+                        -12863,
+                        -12753,
+                        -12753
+                    ],
+                    "y": 81,
+                    "z": [
+                        5049,
+                        5412,
+                        5412,
+                        6020,
+                        6020,
+                        6306,
+                        6306,
+                        6210,
+                        6210,
+                        5685,
+                        5685,
+                        5408,
+                        5408,
+                        5200,
+                        5200,
+                        4771,
+                        4771,
+                        4855,
+                        4855,
+                        5049
+                    ],
+                    "ytop": 81,
+                    "ybottom": 62
+                },
+                "3": {
+                    "color": "#00e1ff",
+                    "fillcolor": "#00e1ff",
+                    "opacity": 0.3,
+                    "fillopacity": 0,
+                    "weight": 2,
+                    "markup": false,
+                    "label": "Diamond Town",
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Diamond Town</h1><div class=\"dial-bar\"></div><p class=\"dial-dial\">/dial diamondtown</p><p class=\"dial-info\">Borders Topside. A 14spawn town based around Diamonds.</p><p class=\"dial-coord\">Owners: Dakto_, edunn005, BigGrayDog, GooseJuggler, HahaItsPhoney, NotedToaster101, Persephone_frog, kc135a, notsnew, pumppie216</p><p class=\"dial-coord\">Members: ANormalGuy54, Aurora_404, BlocksOnBOoks, CJW08, CappyBaraYT, CherryBomb__012, CoolberryBTC, DiamondKing2016, EddyCzech, Famikon, Flanderino, Good_Honest_John, HondaC50, Larissooo, Lurx0720, M8_ROYALTUBER, Md21, MetalErmine1191, Mo0o0_Cow, MrSirPerson, NottJames, OhSpeed, PetePop5, PhredMoop50, PizzaDeGrelo, PumpkinMan210, SchnitzStein, SininePihusti, Skain, Skullpaul17_YT, Spemsta1, SpiritedStar, Tardis4Hire, TheRandomRocket, TurtleMc0, TwisterPixel, Ultrapictures, Witte4Creeper, akipog, codered111, edunn005, empathios, icRevenge, javato07, notsnew, voxynom</p><p class=\"dial-coord\">Railways: Octolong Line, Diamond Line, Dak Line, Fall Line, Cthulhu Express</p><p class=\"dial-wiki\"><a href=\"https://wiki.minecraft.novylen.net/index.php/Diamond_Town\">https://wiki.minecraft.novylen.net/index.php/Diamond_Town</a></p></div>",
+                    "x": [
+                        -18958,
+                        -18958,
+                        -18975,
+                        -18975,
+                        -19008,
+                        -19008,
+                        -18949,
+                        -18949,
+                        -18894,
+                        -18894,
+                        -18777,
+                        -18777,
+                        -18822,
+                        -18822,
+                        -18838,
+                        -18838,
+                        -18800,
+                        -18800,
+                        -18706,
+                        -18706,
+                        -18653,
+                        -18653,
+                        -18707,
+                        -18707,
+                        -18644,
+                        -18644,
+                        -18839,
+                        -18839
+                    ],
+                    "y": 162,
+                    "z": [
+                        -17084,
+                        -16951,
+                        -16951,
+                        -16890,
+                        -16890,
+                        -16723,
+                        -16723,
+                        -16671,
+                        -16671,
+                        -16600,
+                        -16600,
+                        -16555,
+                        -16555,
+                        -16464,
+                        -16464,
+                        -16376,
+                        -16376,
+                        -16340,
+                        -16340,
+                        -16377,
+                        -16376,
+                        -16538,
+                        -16538,
+                        -16707,
+                        -16707,
+                        -16962,
+                        -16962,
+                        -17084
+                    ],
+                    "ytop": 162,
+                    "ybottom": 73
+                },
+                "4": {
+                    "color": "#ff7f00",
+                    "fillcolor": "#ff7f00",
+                    "opacity": 0.3,
+                    "fillopacity": 0,
+                    "weight": 2,
+                    "markup": false,
+                    "label": "Copper Village",
+                    "desc": "<div class=\"dial-box\"><h1 class=\"dial-name\">Copper Village</h1><div class=\"dial-bar\"></div><p class=\"dial-dial\">/dial coppervillage</p><p class=\"dial-info\">A villaqe/town for the love of Copper.</p><p class=\"dial-coord\">Owners: Breakstuffz, lspiter</p><p class=\"dial-coord\">Members: Residents: \tBreakstuffz (Mayor), BastianSeb, Boovler, Dakto_ (Knighted), Dino379, Fungo128k, GooseJuggler, Iord7918 (Knighted) (Assistant Mayor), OnlyQwQ (Former), Persephone_frog, SWIFTTylerBear (Knighted), TheIronGoatYT, Universecentral1, WHITEWOOL, baltxe, doxadonis, eggknob (Knighted), lspiter, purepukka, EntropyPI, HeiSleep, Lurx0720, Qwertydeb5012, TodoNihilo (Knighted), Lukasheman, Subpar-Username47, ClassyCreeper27, 4dre, DJLegos, Password_6, _YT, Yutters, Yumkausar, rilelyscastle (Knighted), Lucasvp_, Bozalosc, buddyaway10, MarrickIsCool, DigitalSoldier67, labyrimth, bunnygoist, zermeow, joriane, theycat13, UnregHyperCam3, ProfessorDevrac, FriskAbyss, ROBOTRUDO773, _muqatil, ruonb, Confused_human21</p><p class=\"dial-coord\">Railways: Copper Line</p><p class=\"dial-wiki\"><a href=\"https://wiki.minecraft.novylen.net/index.php/Copper_Village\">https://wiki.minecraft.novylen.net/index.php/Copper_Village</a></p></div>",
+                    "x": [
+                        -19691,
+                        -19691,
+                        -19529,
+                        -19529,
+                        -19484,
+                        -19484,
+                        -19417,
+                        -19417,
+                        -19784,
+                        -19784,
+                        -19844,
+                        -19844,
+                        -19740,
+                        -19740,
+                        -19769,
+                        -19769,
+                        -19726,
+                        -19726,
+                        -19691
+                    ],
+                    "y": 134,
+                    "z": [
+                        -17075,
+                        -17140,
+                        -17139,
+                        -17238,
+                        -17238,
+                        -17301,
+                        -17301,
+                        -17411,
+                        -17411,
+                        -17377,
+                        -17377,
+                        -17314,
+                        -17314,
+                        -17189,
+                        -17189,
+                        -17052,
+                        -17052,
+                        -17065,
+                        -17065
+                    ],
+                    "ytop": 134,
+                    "ybottom": 62
+                }
+            },
+            "layerprio": 2
         }
     },
-    "timestamp": 1771206821796
+    "timestamp": 1778465142698
 }
