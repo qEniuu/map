@@ -138,6 +138,38 @@
         var HEATMAP_ZOOM = 2;
         var HEATMAP_MIN_TILE_ZOOM = 8;
         var HEATMAP_BOUNDS_SCALE = .99;
+        var HEATMAP_LEGEND = [
+            { min: 12, color: 'rgb(64, 0, 96)' },
+            { min: 10, color: 'rgb(147, 51, 234)' },
+            { min: 8, color: 'rgb(220, 30, 30)' },
+            { min: 6, color: 'rgb(255, 140, 0)' },
+            { min: 4, color: 'rgb(255, 235, 0)' },
+            { min: 2, color: 'rgb(40, 200, 80)' },
+            { min: 1, color: 'rgb(0, 180, 180)' }
+        ];
+
+        function heatmapLegendLabel(index) {
+            var entry = HEATMAP_LEGEND[index];
+            if (index === 0) return entry.min + '+';
+            var nextMin = HEATMAP_LEGEND[index - 1].min;
+            if (entry.min === nextMin - 1) return String(entry.min);
+            return entry.min + '–' + (nextMin - 1);
+        }
+
+        function createHeatmapLegendEl() {
+            var legend = L.DomUtil.create('div', 'heatmap-legend hidden');
+            var title = L.DomUtil.create('div', 'heatmap-legend-title', legend);
+            title.innerHTML = 'Block Changes<br>2024-2025';
+            var items = L.DomUtil.create('div', 'heatmap-legend-items', legend);
+            HEATMAP_LEGEND.forEach(function (entry, index) {
+                var item = L.DomUtil.create('div', 'heatmap-legend-item', items);
+                var swatch = L.DomUtil.create('span', 'heatmap-legend-swatch', item);
+                swatch.style.backgroundColor = entry.color;
+                var label = L.DomUtil.create('span', 'heatmap-legend-label', item);
+                label.textContent = heatmapLegendLabel(index);
+            });
+            return legend;
+        }
         var MAP_HALF = 20.48;
         var MAP_SPAN = MAP_HALF * 2;
 
@@ -248,6 +280,13 @@
             map.fitBounds(bounds);
             var heatBoundsHalf = 20.48 * HEATMAP_BOUNDS_SCALE;
             var heatBounds = [[-heatBoundsHalf, -heatBoundsHalf], [heatBoundsHalf, heatBoundsHalf]];
+            var heatmapLegendEl = null;
+
+            function setHeatmapLegendVisible(visible) {
+                if (heatmapLegendEl) {
+                    heatmapLegendEl.classList.toggle('hidden', !visible);
+                }
+            }
 
             function removeMapOverlay(mapInstance) {
                 if (!currentOverlay) return;
@@ -296,6 +335,7 @@
                         } else {
                             currentOverlay = L.imageOverlay(selected, bounds).addTo(mapInstance);
                         }
+                        setHeatmapLegendVisible(selected === 'heatmap');
                     });
 
                     return container;
@@ -360,7 +400,19 @@
                 }
             });
 
+            var heatmapLegendControl = L.Control.extend({
+                options: {
+                    position: 'bottomleft'
+                },
+
+                onAdd: function () {
+                    heatmapLegendEl = createHeatmapLegendEl();
+                    return heatmapLegendEl;
+                }
+            });
+
             map.addControl(new coordsControl());
+            map.addControl(new heatmapLegendControl());
 
             var markerGroup = L.layerGroup(markers).addTo(map);
 
