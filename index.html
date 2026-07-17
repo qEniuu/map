@@ -358,10 +358,6 @@
 
           pois.forEach(poi => {
                 if (!groups[poi.category]) {
-                    // Default-hide certain dial layers, others start visible
-                  /*  if (poi.category === 'Dial (WXT)' || poi.category === 'Dial (Station)') {
-                        groups[poi.category] = L.layerGroup();
-                    } else { */
                         groups[poi.category] = L.layerGroup().addTo(map);
                     }
                 }
