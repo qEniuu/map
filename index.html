@@ -79,7 +79,7 @@
                             labelLower.includes('shop') ||
                             infoLower.includes('shop')
                         ) {
-                            color = 'green';
+                            color = 'blue';
                         } else if (
                             catLower.includes('farm') ||
                             labelLower.includes('farm') ||
@@ -92,6 +92,24 @@
                             infoLower.includes('pvp')
                         ) {
                             color = 'blue';
+                        } else if (
+                            catLower.includes('wxt') ||
+                            labelLower.includes('wxt') ||
+                            infoLower.includes('wxt')
+                        ) {
+                            color = 'purple';
+                        } else if (
+                            catLower.includes('station') ||
+                            labelLower.includes('station') ||
+                            infoLower.includes('station')
+                        ) {
+                            color = 'green';
+                        } else if (
+                            catLower.includes('other') ||
+                            labelLower.includes('other') ||
+                            infoLower.includes('other')
+                        ) {
+                            color = 'green';
                         }
 
                         pois.push({
@@ -350,15 +368,10 @@
             var railwayGroup = L.layerGroup().addTo(map);
             var markers = [];
 
-            pois.forEach(poi => {
+          pois.forEach(poi => {
                 if (!groups[poi.category]) {
-                    // Default-hide certain dial layers, others start visible
-                    if (poi.category === 'Dial (WXT)' || poi.category === 'Dial (Station)') {
-                        groups[poi.category] = L.layerGroup();
-                    } else {
                         groups[poi.category] = L.layerGroup().addTo(map);
                     }
-                }
                 var marker = L.marker(worldToMap(poi.x, poi.z), {
                     icon: L.icon({
                         iconUrl: "marker/" + poi.color + '-marker.png',
